@@ -1,3 +1,4 @@
+![Github Banner](https://github.com/BinukiMihara/BinukiMihara/blob/main/wallpaper.png)
 <h1 align="center">Hi 👋, I'm Binuki Mihara</h1>
 <h3 align="center">A passionate Software Engineering Undergraduate</h3>
 
