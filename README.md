@@ -6,7 +6,7 @@
 
 ---
 ### About Me:
-- 🌱 I’m currently learning **MERN Stack ,MongoDB**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **Web development | OOC**
 
