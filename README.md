@@ -1,7 +1,6 @@
 ![Github Banner](https://github.com/BinukiMihara/BinukiMihara/blob/main/wallpaper.png)
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=042D5E&width=370&height=100&lines=Hi+%F0%9F%91%8B+I'm+Binuki+Mihara" alt="Typing SVG" /></a>
-</p>
+<h1 align="center">Hi 👋, I'm Binuki Mihara</h1>
+
 <h3 align="center">A Passionate Data Science Undergraduate</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=binukimihara&label=Profile%20views&color=0e75b6&style=flat" alt="binukimihara" /> </p>
