@@ -7,11 +7,9 @@
 ---
 ### About Me:
 - 🌱 I’m currently learning **Data Science**
-
 - 💬 Ask me about **Web development | OOC**
-
+- 👯 I’m looking to collaborate on projects and seeking for an **internship**
 - 📫 How to reach me **miharabinuki@gmail.com**
-
 - ⚡ Fun fact **In a world full of ifs, be someone's else's else**
 
 ---
