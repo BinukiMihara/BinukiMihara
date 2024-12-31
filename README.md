@@ -55,18 +55,18 @@
 </p>
 
 ---
-### GitHub Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binukimihara&theme=great-gatsby&layout=compact)](https://github.com/binukimihara)
-</br>
+<!--
+### Github Stats   
+-->
+<div align="center">
+  <!--
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=binukimihara&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" width="195" height="150" alt="languages graph"  />
+  -->
+  <img height="120em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=binukimihara&show_icons=true&hide_border=false&layout=compact&langs_count=8"/>
+  <img src="https://streak-stats.demolab.com?user=binukimihara&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="120em" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=binukimihara&show_icons=true&count_private=true&hide_border=true" height="120em" />
+</div>
 
-![Binuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=binukimihara&show_icons=true&count_private=true&theme=great-gatsby) </br>
-
-
-<p align="center">
-    <a href="https://github.com/binukimihara/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Binuki's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=binukimihara&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
    
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=binukimihara" alt="binukimihara" /></a> </p>
